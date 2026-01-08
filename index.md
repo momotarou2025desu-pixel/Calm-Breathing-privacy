@@ -1,62 +1,73 @@
-# Aeon Breath World – Privacy Policy
+Calm Breathing – Privacy Policy (by iogusnohin)
 
-Aeon Breath World (“the App”) respects the privacy of its users and is committed to protecting personal information.  
+Calm Breathing (“the App”), by iogusnohin (“we”), respects the privacy of its users and is committed to protecting personal information.
 This Privacy Policy explains how the App handles user data.
 
----
+1. Information the App Does NOT Collect
 
-## 1. Information the App Does NOT Collect
+The App does not collect or require users to provide personally identifiable information such as:
 
-The App does **not** collect any personally identifiable information, such as:
+Name
 
-- Name  
-- Email address  
-- Physical address  
-- Phone number  
-- Any identifier that can uniquely identify a user  
+Email address
 
-The App also does **not** collect:
+Physical address
 
-- Location information (GPS, etc.)  
-- Contacts (address book)  
-- Photos, audio, or video from the camera or microphone  
-- Advertising IDs or other tracking identifiers  
+Phone number
 
----
+The App also does not access or collect:
 
-## 2. Information Stored Locally on the Device
+Contacts (address book)
 
-For the purpose of breathing sessions, theme settings, and text display,  
-the App may store the following data **only on the user’s device**:
+Photos, audio, or video from the camera or microphone
 
-- Theme color and display preferences  
-- Breathing session history or progress  
-- Other in-app settings chosen by the user  
+Precise location information (GPS)
 
-These data are used solely to support app functionality and are **never transmitted outside the device**.
+2. Information Stored Locally on the Device
 
----
+To support breathing sessions, theme settings, and text display, the App may store the following data only on the user’s device:
 
-## 3. Use of Third-Party Services
+Theme color and display preferences
 
-The App does **not** use external analytics services, advertisement services, crash logging services,  
-or any third-party SDKs that send user data to external servers.  
-No user data is shared with any third party.
+Breathing session history or progress (if available in the App)
 
----
+Other in-app settings chosen by the user
 
-## 4. Children’s Privacy
+These data are used solely to support app functionality and are not transmitted to our servers.
 
-The App does not knowingly collect personal information from children under the age of 13.  
-If we become aware that such information has been provided, we will delete it promptly.
+3. Advertising (Third-Party Services)
 
----
+The App may display ads using Google AdMob (Google Mobile Ads SDK).
+AdMob may automatically collect certain information to provide and measure ads, such as:
 
-## 5. Changes to This Privacy Policy
+Advertising ID (or similar device identifiers)
 
-This Privacy Policy may be updated as needed.  
+IP address (for general location like country/region)
+
+App interaction data related to ads (e.g., ad impressions, clicks)
+
+Device information (e.g., device model, OS version)
+
+Approximate location inferred from IP (not GPS)
+
+This information is processed by Google in accordance with Google’s policies.
+The App itself does not receive or store personally identifiable information from AdMob.
+
+You can manage ad personalization from your device settings (for example, resetting or limiting the Advertising ID on Android).
+
+4. Analytics / Crash Reports
+
+The App does not use external analytics services or crash logging services that we operate to collect personal data.
+However, standard platform diagnostics (provided by the operating system or app store) may exist outside the App’s control.
+
+5. Children’s Privacy
+
+The App does not knowingly collect personal information from children under the age of 13.
+If we become aware that personal information has been provided to us, we will delete it promptly.
+
+6. Changes to This Privacy Policy
+
+This Privacy Policy may be updated as needed.
 Any changes will be posted on this page and will become effective when published.
 
----
-
-_Last updated: December 2025_
+Last updated: January 2026
