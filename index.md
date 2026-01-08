@@ -1,6 +1,6 @@
-Calm Breathing – Privacy Policy (by iogusnohin)
+Calm Breathing – Privacy Policy by iogusnohin
 
-Calm Breathing (“the App”), by iogusnohin (“we”), respects the privacy of its users and is committed to protecting personal information.
+Calm Breathing (the “App”) respects the privacy of its users and is committed to protecting personal information.
 This Privacy Policy explains how the App handles user data.
 
 1. Information the App Does NOT Collect
